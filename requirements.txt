@@ -3,4 +3,4 @@ numpy
 plotly
 streamlit
 nfl-data-py
-openpyxlgit
+openpyxl
